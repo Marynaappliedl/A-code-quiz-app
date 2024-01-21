@@ -61,19 +61,30 @@ The application provides an intuitive and easy-to-navigate user experience. The 
 ## Review
 
 Please find the screenshots of how the application works below:
+
 ![Alt text](<A start.png>)
+
+
 This image is at the very start of the application launch
 
 ![Alt text](<Question screenshot.png>)
+
+
 It is a screenshot of a typical question of the quiz.
 
 ![Alt text](<if second response is incorrect.png>)
+
+
 One question was correct, another one was not as the first question was done for a second,the second question that was wrong has changed the timer to 59 seconds from the initial 74 seconds that remained after the 1st question.
 
 ![Alt text](<if the third response is incorrect.png>)
+
+
 As the third question is wrong, the timer has decreased.
 
 ![Alt text](<Saving the score and the full name-1.png>)
+
+
 This is a screenshot of how a user can save his result to the console
 
 
